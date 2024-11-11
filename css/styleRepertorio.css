@@ -149,3 +149,50 @@
     align-self: center;
 }
 /*-----------------------------------------------------------------------------*/
+@media (max-width: 768px) {
+    .P3B2BloqImg {
+        flex-direction: column;
+        gap: 20px;
+        max-width: 90vw;
+    }
+    
+    .P3B2Titulo {
+        font-size: 40px;
+        width: 90%;
+    }
+    
+    .contP3B3{
+        padding-top: 150vh;
+    }
+
+    .P3B32 {
+        flex-direction: column;
+        gap: 20px;
+        align-items: center;
+        height: auto;
+    }
+
+    .P3B3Titulo {
+        font-size: 28px;
+        width: 100%;
+    }
+    
+    .P3B33Texto {
+        font-size: 18px;
+    }
+    
+    .P1B71, .P1B72 {
+        width: 100%;
+        font-size: 18px;
+    }
+
+    .contP1B8 {
+        margin-left: 0;
+        gap: 40px;
+    }
+
+    .P1B81, .P1B82 {
+        width: 100%;
+        height: auto;
+    }
+}
