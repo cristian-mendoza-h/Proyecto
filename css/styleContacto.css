@@ -1,0 +1,107 @@
+.contP4B2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+    margin-bottom: 60px;
+}
+
+.P4B2{
+    display: flex;
+    margin-top: 130px;
+    gap: 50px;
+    height: 100px;
+}
+
+.P4B2Direccion{
+    width: 500px;
+}
+
+.P4B2NumEmail{
+    width: 200px;
+}
+
+.P4B2Direc1{
+    font-family: sans-serif;
+}
+
+.P4B2Direc2{
+    font-family: sans-serif;
+    color:darkgrey;
+}
+/*-----------------------------------------------------------------------------*/
+.contP4B3{
+    color: white;
+    display: flex;
+    gap: 80px;
+    justify-content: center;
+    margin-bottom: 100px;
+    height: 700px;
+}
+
+.P4B31{
+    background-color: blueviolet;
+    width: 600px;
+}
+
+.P4B32{
+    display: flex;
+    flex-direction: column;
+    gap: 28px;
+    width: 500px;
+}
+
+.P4B33{
+    margin-top: 70px;
+    height: 125px;
+}
+
+.P4B34{
+    display: flex;
+    gap: 25px;
+    height: 50px;
+}
+
+.P4B341{
+    width: 100%;
+}
+
+.P4B35{
+    height: 50px;
+    width: 500px;
+}
+
+.P4B36{
+    height: 125px;
+    width: 500px;
+}
+
+.P4B37{
+    height: 50px;
+    width: 180px;
+}
+
+.P4B3Espacio{
+    height: 100%;
+    width: 100%;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+.P4B3btn{
+    height: 100%;
+    width: 100%;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    background-color: black;
+    color: white;
+}
+
+.P4B33Titulo{
+    font-size: 35px;
+}
+
+.P4B33Descripcion   {
+    font-family: sans-serif;
+    color: darkgrey;
+}

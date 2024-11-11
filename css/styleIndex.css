@@ -1,0 +1,394 @@
+body{
+    margin: 0;
+    background-color: black;
+    background-image: url("../photos/photoP1B1.jpg");
+    background-repeat: no-repeat;
+}
+
+.P1B1h1{
+    font-size: 20px;
+}
+
+.a1{
+    color: gainsboro;
+}
+
+.contP1B1{
+    display: flex;
+    justify-content: space-around;
+    color:white;
+    height: 110px;
+    padding: 30px;
+}
+
+.P1B1Texto{
+    display: flex;
+    font-size: 20px; /*tamanio de la letra*/
+    font-family: 'Times New Roman', Times, serif; /*poner tipo de letra*/
+    font-weight: 700; /*agregar grosor a la letra*/
+    margin-top: -13px;
+}
+.P1B1Menu{
+    color:gainsboro;
+    display: flex;
+    gap: 40px;
+    height: 80px;
+    align-self: center;
+    font-size: 13px;
+    font-weight: 550;
+    font-family: sans-serif;
+}
+
+.P1B1Logos2Y3{
+    display: flex;
+    gap: 30px;
+}
+
+.imgP1B1Log1Y3{
+    height: 18px;
+    width: 18px;
+}
+
+.contP1B2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end;
+    height: 520px;
+    color: white;
+}
+
+.contP1B2HM{
+    font-size: 90px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: normal;
+    margin-bottom: -70px;
+
+}
+
+.contP1B2SD{
+    font-size: 15px;
+    font-family: sans-serif;
+}
+
+.P1B2Button{
+    margin-left: -5px;
+    margin-top: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-decoration: underline;
+    color: wheat;
+    background-color: transparent;
+    border: none;
+}
+
+.contP1B3{
+    display: flex;
+    height: 550px;
+    justify-content: center;
+    margin-top: 150px;
+    margin-bottom: 70px;
+    gap: 50px;
+}
+
+.P1B31{
+    width: 580px;
+}
+
+.P1B3Titulo{
+    font-size: 20px;
+    font-weight: 600;
+    font-family: sans-serif;
+    color:burlywood;
+}
+
+.P1B3Texto{
+    font-size: 50px;
+    font-family:serif;
+    color: white;
+}
+
+.P1B32{
+    margin-top: 80px;
+    width: 580px;
+    color: white;
+    font-family: sans-serif;
+    font-size: 18px;
+    color:darkgray;
+}
+
+.contP1B4{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 250px;
+    gap: 80px;
+}
+
+.P1B41{
+    height: 250px;
+    width: 350px;
+}
+
+.P1B42{
+    height: 250px;
+    width: 350px;
+}
+
+.P1B43{
+    height: 250px;
+    width: 350px;
+}
+
+.P1B44{
+    height: 250px;
+    width: 350px;
+}
+
+.P1B45{
+    height: 250px;
+    width: 350px;
+}
+
+.P1B46{
+    height: 250px;
+    width: 350px;
+}
+
+.P1B4Anio{
+    color:peachpuff;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.P1B4Titulo{
+    color: white;
+    font-size: 20px;
+    font-weight: 900;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.P1B4Descripcion{
+    color:darkgray;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.contP1B5{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 60px;
+}
+
+.P1B5Titulo{
+    font-size: 25px;
+    color: peachpuff;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.P1B5Descripcion{
+    width: 900px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    text-align: center;
+}
+
+.contP1B6{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    margin-bottom: 250px;
+}
+
+.P1B61{
+    background-color: rebeccapurple;
+    height: 500px;
+    width: 350px;
+
+}
+
+.P1B62{
+    height: 150px;
+    width: 350px;
+}
+
+.P1B63{
+    background-color: antiquewhite;
+    height: 500px;
+    width: 350px;
+}
+
+.P1B64{
+    height: 150px;
+    width: 350px;
+}
+
+.P1B65{
+    background-color: aqua;
+    height: 500px;
+    width: 350px;
+}
+
+.P1B66{
+    height: 150px;
+    width: 350px;
+}
+
+.P1B6Img{
+    width: 100%;    
+    height: 100%;
+}
+
+.P1B6Titulo{
+    color: burlywood;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+.P1B6Texto{
+    color:gainsboro;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
+
+.contP1B7{
+    display: flex;
+    height: 130px;
+    margin: 80px 160px;
+    gap: 20px;
+}
+
+.P1B71{
+    color: peachpuff;
+    width: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+.P1B72{
+    margin-top: -40px;
+    color: white;
+    width: 650px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
+
+.contP1B8{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 230px;
+    margin-bottom: 250px;
+    gap: 80px;
+}
+
+.P1B8
+{
+    display: flex;
+    gap: 25px;
+    color: white;
+}
+
+.P1B81{
+    height: 170px;
+    width: 300px;
+
+}
+
+.P1B82{
+    height: 170px;
+    width: 480px;
+}
+
+.contP1B9{
+    display: flex;
+    justify-content: center;
+    height: 330px;
+    margin-bottom: 150px;
+    gap: 70px;
+
+}
+
+.P1B91{
+    width: 450px;
+}
+
+.P1B92{
+    width: 450px;
+}
+
+.P1B93{
+    width: 160px;
+    color:peachpuff;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    align-self: center;
+}
+
+/*--------------------------------------*/
+.contP1B10{
+    display: flex;
+    margin: 110px 0;
+    flex-direction: column;
+    align-items: center;
+    gap: 50px;
+}
+
+.P1B101{
+    height: 50px;
+    width: 350px;
+    text-align: center;
+}
+.P1B102{
+    height: 50px;
+    width: 700px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+.P1B103{
+    display: flex;
+    height: 50px;
+    width: 600px;
+    color: black;
+    gap: 10px;
+}
+
+.P1B1031{
+    width: 400px;
+    background-color: white;
+}
+
+.P1B103 > button{
+    color: white;
+    width: 400px;
+    background-color: black;
+}
+
+
+.contP1B11{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 80px 0;
+}
+
+.P1B12{
+    color:white;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+
+.contP1B11HM{
+    color: white;
+    font-size: 90px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: normal;
+}
+
+.P1B11Logos{
+    margin-top: 60px;
+    display: flex;
+    gap: 30px;
+}

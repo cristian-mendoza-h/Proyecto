@@ -1,0 +1,305 @@
+body{
+    margin: 0;
+    background-color: black;
+}
+/*-----------------------------------------------------------------------------*/
+.a1{
+    color: gainsboro;
+}
+/*-----------------------------------------------------------------------------*/
+.P1B1h1{
+    font-size: 20px;
+}
+
+.contP2B1{
+    display: flex;
+    justify-content: space-around;
+    color:white;
+    height: 110px;
+    padding: 30px;
+}
+
+.P2B1Texto{
+    display: flex;
+    font-size: 20px; /*tamanio de la letra*/
+    font-family: 'Times New Roman', Times, serif; /*poner tipo de letra*/
+    font-weight: 700; /*agregar grosor a la letra*/
+    margin-top: -13px;
+}
+.P2B1Menu{
+    color:gainsboro;
+    display: flex;
+    gap: 40px;
+    height: 80px;
+    align-self: center;
+    font-size: 13px;
+    font-weight: 550;
+    font-family: sans-serif;
+}
+
+.P2B1Logos2Y3{
+    display: flex;
+    gap: 30px;
+}
+
+.imgP2B1Log1Y3{
+    height: 18px;
+    width: 18px;
+}
+/*-----------------------------------------------------------------------------*/
+.contP2B2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+    gap: 80px;
+}
+
+.P2B2Titulo{
+    width: 700px;
+    height: 80px;
+    font-family: serif;
+    text-align: center;
+    font-size: 80px;
+}
+
+.P2B2Imagen{
+    width: 1200px;
+    height: 690px;
+    margin-bottom: 75px;
+}
+
+.P2B2Img2{
+    width: 100%;
+    height: 100%;
+}
+/*-----------------------------------------------------------------------------*/
+.contP2B3{
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 200px
+}
+
+.P2B3Titulo{
+    height: 170px;
+    width: 600px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+}
+
+.P2B3Texto{
+    height: 360px;
+    width: 600px;
+    font-size:19px;
+    font-family: sans-serif;
+    color:darkgray;
+}
+
+.P2B3Fechas{
+    display: flex;
+    flex-direction: column;
+    width: 600px;
+    gap: 35px;
+}
+
+.P2B3Anio{
+    margin-bottom: -20px;
+    height: 60px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 38px;
+    color:burlywood
+}
+
+.P2B3Explicacion{
+    height: 60px;
+    font-family: sans-serif;
+    font-size: 17px;
+    color:gainsboro;
+}
+/*-----------------------------------------------------------------------------*/
+.contP2B4{
+    display: flex;
+    color: white;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 200px;
+}
+
+.P2B4BloqImg1{
+    background-color: aqua;
+    height: 250px;
+    width: 350px;
+}
+
+.P2B4BloqImg2{
+    background-color:aquamarine;
+    height: 300px;
+    width: 225px;
+}
+
+.P2B4Img{
+    height: 100%;
+    width: 100%;
+}
+/*-----------------------------------------------------------------------------*/
+.contP2B5{
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 150px;
+    text-align: center;
+}
+
+.P2B5Titulo{
+    height: 50px;
+    width: 300px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+}
+
+.P2B5Texto{
+    height: 50px;
+    width: 500px;
+    font-size:17px;
+    font-family: sans-serif;
+    color:darkgray;
+}
+/*-----------------------------------------------------------------------------*/
+.contP1B4{
+    display: flex;
+    justify-content: center;
+    margin: 150px 0;
+    gap: 80px;
+}
+
+.P1B41{
+    height: 250px;
+    width: 350px;
+}
+
+.P1B42{
+    height: 250px;
+    width: 350px;
+}
+
+.P1B43{
+    height: 250px;
+    width: 350px;
+}
+
+.P1B44{
+    height: 250px;
+    width: 350px;
+}
+
+.P1B45{
+    height: 250px;
+    width: 350px;
+}
+
+.P1B46{
+    height: 250px;
+    width: 350px;
+}
+
+.P1B4Anio{
+    color:peachpuff;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.P1B4Titulo{
+    color: white;
+    font-size: 20px;
+    font-weight: 900;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.P1B4Descripcion{
+    color:darkgray;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+}
+/*-----------------------------------------------------------------------------*/
+.contP1B10{
+    display: flex;
+    margin: 110px 0;
+    flex-direction: column;
+    align-items: center;
+    gap: 50px;
+}
+
+.P1B5Titulo{
+    font-size: 25px;
+    color: peachpuff;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.P1B101{
+    height: 50px;
+    width: 350px;
+    text-align: center;
+}
+
+.P1B72{
+    margin-top: -40px;
+    color: white;
+    width: 650px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
+
+.P1B102{
+    height: 50px;
+    width: 700px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+.P1B103{
+    display: flex;
+    height: 50px;
+    width: 600px;
+    color: black;
+    gap: 10px;
+}
+
+.P1B1031{
+    width: 400px;
+    background-color: white;
+}
+
+.P1B103 > button{
+    color: white;
+    width: 400px;
+    background-color: black;
+}
+/*-----------------------------------------------------------------------------*/
+.contP1B11{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 80px 0;
+}
+
+.P1B12{
+    color:white;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+
+.contP1B11HM{
+    color: white;
+    font-size: 90px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: normal;
+}
+
+.P1B11Logos{
+    margin-top: 60px;
+    display: flex;
+    gap: 30px;
+}

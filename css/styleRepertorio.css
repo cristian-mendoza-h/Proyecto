@@ -1,0 +1,151 @@
+.contP3B2{
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 100px;
+}
+
+.P3B2Titulo{
+    width: 700px;
+    height: 80px;
+    font-family: serif;
+    text-align: center;
+    font-size: 80px;
+    margin-bottom: 50px;
+}
+
+.P3B2BloqImg{
+    display: flex;
+    height: 500px;
+    gap: 50px;
+}
+
+.P3B2Img{
+    width: 325px;
+}
+/*-----------------------------------------------------------------------------*/
+.contP3B3{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 300px;
+    color: white
+}
+
+.P3B31{
+    display: flex;
+    flex-direction: column;
+    gap: 120px;
+}
+
+.P3B32{
+    display: flex;
+    height: 200px;
+    gap: 50px;
+}
+
+.P3B33{
+    width: 260px;
+}
+
+.P3B3Titulo{
+    margin-bottom: 160px;
+    height: 120px;
+    width: 1180px;
+    font-size:40px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.P3B33Titulo{
+    color:burlywood;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+.P3B33SubTitulo{
+    margin-top: 20px;
+    font-size: 34px;
+}
+
+.P3B33Texto{
+    margin-top: -15px;
+    font-size: 21px;
+    font-family: serif;
+    color:darkgrey;
+}
+/*-----------------------------------------------------------------------------*/
+.contP1B7{
+    display: flex;
+    height: 130px;
+    margin: 80px 160px;
+    gap: 20px;
+}
+
+.P1B71{
+    color: peachpuff;
+    width: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+.P1B72{
+    margin-top: -40px;
+    color: white;
+    width: 650px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
+/*-----------------------------------------------------------------------------*/
+.contP1B8{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 230px;
+    margin-bottom: 250px;
+    gap: 80px;
+}
+
+.P1B8
+{
+    display: flex;
+    gap: 25px;
+    color: white;
+}
+
+.P1B81{
+    height: 170px;
+    width: 300px;
+
+}
+
+.P1B82{
+    height: 170px;
+    width: 480px;
+}
+/*-----------------------------------------------------------------------------*/
+.contP1B9{
+    display: flex;
+    justify-content: center;
+    height: 330px;
+    margin-bottom: 150px;
+    gap: 70px;
+
+}
+
+.P1B91{
+    width: 450px;
+}
+
+.P1B92{
+    width: 450px;
+}
+
+.P1B93{
+    width: 160px;
+    color:peachpuff;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    align-self: center;
+}
+/*-----------------------------------------------------------------------------*/
